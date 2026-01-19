@@ -1,6 +1,6 @@
-# EF5 Cuba Flash-Flood Monitoring & Forecasting — *Sistema de inundaciones repentinas para Cuba* (Prototype)
+# EF5 Burkina Faso Flash-Flood Monitoring & Forecasting — *Flash-Flood System for Burkina Faso* (Prototype)
 
-This repository hosts the **code, configuration, and documentation** flash-flood monitoring and forecasting system over Cuba using **EF5** (Ensemble Framework for Flash Flood Forecasting). The repo contains all **code and static assets**; **large, geospatial datasets** (e.g., high-resolution DEM tiles) are published and versioned on **Zenodo**.
+This repository hosts the **code, configuration, and documentation** flash-flood monitoring and forecasting system over Burkina Faso using **EF5** (Ensemble Framework for Flash Flood Forecasting). The repo contains all **code and static assets**; **large, geospatial datasets** (e.g., high-resolution DEM tiles) are published and versioned on **Zenodo**.
 
 > Project period: **June–December 2025** (demo portal maintained through June 2026)
 
