@@ -8,7 +8,7 @@ This repository hosts the **code, configuration, and documentation** flash-flood
 
 ### 1) Code & workflows (GitHub)
 - `ef5/` – [**EF5**](https://github.com/AHWALab/EF5) configuration templates (CREST water balance, kinematic-wave routing, inundation/HAND blocks)
-- `tito/` – [**TITO**](https://github.com/AHWALab/TITOCuba) (Threading Inputs To Outputs) orchestration scripts for data ingestion, pre/post-processing, and scheduling. Setup steps are available in the TITO repo linked.
+- `tito/` – [**TITO**](https://github.com/AHWALab/TITOBurkina_Faso) (Threading Inputs To Outputs) orchestration scripts for data ingestion, pre/post-processing, and scheduling. Setup steps are available in the TITO repo linked.
 - `docs/` – (TITO Docs)
 
 ### 2) Static data (Zenodo)
